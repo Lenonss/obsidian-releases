@@ -32709,5 +32709,12 @@
     "author": "spenhos",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Insert Hebrew Bible (Torah/Tanakh) verses with nikud and cantillation, fully offline. Search Hebrew naturally with your regular keyboard — type 'bereshit' to find בראשית, no keyboard switching. Optional translations and AlHaTorah links.",
     "repo": "spenhos/obsidian-torah-verse-inserter"
+  },
+  {
+    "id": "tasklist",
+    "name": "TaskList",
+    "author": "Lenonss",
+    "description": "任务列表管理组件，支持集中式任务数据库，提供新增、编辑、状态切换和移除功能。",
+    "repo": "Lenonss/obsidian-tasklist"
   }
 ]
